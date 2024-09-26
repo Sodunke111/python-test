@@ -1,6 +1,3 @@
-code
-
-
 print("Welcome To My Bot\n")
 name= input("What is your name?\n")
 print(name + " " "can you believe that your name sounds great and beautiful" + " " "!\n")
